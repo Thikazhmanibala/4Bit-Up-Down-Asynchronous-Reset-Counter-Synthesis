@@ -74,8 +74,10 @@ used.
 ![Screenshot_(122) 1](https://github.com/user-attachments/assets/cbb52857-0e9e-430d-b42c-ba56db7dc908)
 
 
+
 #### Area report:
 ![Screenshot_(123) 1](https://github.com/user-attachments/assets/7f93ef50-1fa4-4900-b029-2c004c398371)
+
 
 #### Power Report:
 ![Screenshot_(124) 1](https://github.com/user-attachments/assets/46baa75d-53e2-407b-bd73-32213f94fe39)
